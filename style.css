@@ -28,7 +28,7 @@
 }
 
 .navlink >a:hover{
-    border-bottom: 2px solid ;
+    border-bottom: 5px solid ;
     color: white;
     background-color: rgb(76, 76, 175);
 }
